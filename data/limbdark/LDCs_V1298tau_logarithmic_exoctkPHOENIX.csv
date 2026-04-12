@@ -1,0 +1,76 @@
+# %ECSV 1.0,
+# ---,
+# datatype:,
+# - {name: Teff, datatype: float64}
+# - {name: logg, datatype: float64}
+# - {name: FeH, datatype: float64}
+# - {name: profile, datatype: string}
+# - {name: filter, datatype: string}
+# - {name: wave_min, datatype: float16}
+# - {name: wave_eff, datatype: float16}
+# - {name: wave_max, datatype: float16}
+# - {name: c1, datatype: float64}
+# - {name: e1, datatype: float64}
+# - {name: c2, datatype: float64}
+# - {name: e2, datatype: float64}
+# - {name: c3, datatype: float64}
+# - {name: e3, datatype: float64}
+# - {name: c4, datatype: float64}
+# - {name: e4, datatype: float64}
+# schema: astropy-2.0,
+Teff logg FeH profile filter wave_min wave_eff wave_max c1 e1 c2 e2 c3 e3 c4 e4,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 0.8657 0.8794 0.8936 0.549 0.001 0.134 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 0.8975 0.911 0.9253 0.542 0.001 0.136 0.001 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 0.929 0.943 0.957 0.525 0.001 0.136 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 0.961 0.9746 0.989 0.499 0.001 0.117 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 0.9927 1.007 1.0205 0.489 0.001 0.125 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.024 1.038 1.052 0.508 0.001 0.141 0.001 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.057 1.07 1.084 0.502 0.001 0.151 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.088 1.102 1.115 0.485 0.001 0.137 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.12 1.134 1.147 0.48 0.001 0.136 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.151 1.165 1.179 0.488 0.001 0.153 0.001 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.184 1.197 1.211 0.488 0.001 0.168 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.215 1.229 1.242 0.488 0.001 0.162 0.001 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.247 1.261 1.274 0.49 0.001 0.178 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.278 1.292 1.306 0.484 0.001 0.17 0.001 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.311 1.324 1.338 0.491 0.001 0.193 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.342 1.355 1.37 0.493 0.001 0.202 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.374 1.388 1.401 0.493 0.001 0.213 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.405 1.419 1.434 0.497 0.001 0.215 0.001 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.4375 1.451 1.465 0.478 0.001 0.206 0.001 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.469 1.482 1.497 0.484 0.002 0.237 0.003 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.501 1.515 1.528 0.498 0.001 0.25 0.002 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.532 1.546 1.561 0.467 0.002 0.246 0.003 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.564 1.578 1.592 0.436 0.002 0.235 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.596 1.609 1.624 0.453 0.002 0.252 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.628 1.642 1.655 0.453 0.002 0.258 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.659 1.673 1.6875 0.443 0.002 0.254 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.691 1.705 1.719 0.443 0.003 0.251 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.723 1.736 1.751 0.42 0.002 0.234 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.755 1.769 1.782 0.426 0.002 0.238 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.786 1.8 1.814 0.409 0.002 0.224 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.818 1.832 1.846 0.396 0.003 0.222 0.005 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.85 1.863 1.878 0.401 0.002 0.217 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.882 1.8955 1.909 0.4 0.002 0.217 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.913 1.927 1.941 0.396 0.002 0.214 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.945 1.959 1.973 0.38 0.002 0.194 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 1.977 1.99 2.004 0.391 0.002 0.208 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.008 2.021 2.037 0.382 0.002 0.202 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.041 2.055 2.068 0.382 0.002 0.199 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.072 2.086 2.1 0.374 0.002 0.198 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.104 2.117 2.13 0.362 0.002 0.19 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.135 2.148 2.164 0.366 0.003 0.196 0.005 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.168 2.182 2.195 0.362 0.003 0.193 0.005 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.2 2.213 2.227 0.357 0.003 0.189 0.005 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.23 2.244 2.258 0.355 0.003 0.185 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.262 2.275 2.291 0.34 0.002 0.177 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.295 2.309 2.322 0.35 0.002 0.159 0.003 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.326 2.34 2.354 0.367 0.003 0.195 0.005 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.357 2.371 2.385 0.36 0.002 0.176 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.389 2.402 2.418 0.334 0.003 0.17 0.005 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.422 2.436 2.45 0.348 0.002 0.183 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.453 2.467 2.48 0.335 0.002 0.162 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.484 2.498 2.512 0.34 0.002 0.173 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.516 2.53 2.545 0.331 0.002 0.165 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.549 2.562 2.576 0.325 0.002 0.162 0.004 nan nan nan nan,
+4900.0 4.0 0.0 logarithmic NIRISS.CLEAR.GR700XD_1.SOSS 2.58 2.594 2.607 0.329 0.002 0.166 0.004 nan nan nan nan,
